@@ -7,3 +7,8 @@
 
 - ESLint is an open source project originally created by Nicholas C. Zakas in June 2013. Its goal is to provide a pluggable linting utility for JavaScript.
 - ESLintは、もともとNicholas C. Zakasが2013年6月に作成したオープンソースプロジェクトです。その目的は、JavaScript用のプラグイン可能なリンキングユーティリティを提供することです。
+
+## links
+
+- [About](about.md)
+- [Rules](rules.md)
